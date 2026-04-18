@@ -1,24 +1,31 @@
 # Wayne Clingman
 
-**Full-stack developer — Node.js · React · AI integration**
+**AI-assisted developer — small projects, API integrations, automation**
 Kansas, USA · Army veteran · 30 years in e-commerce
 
 ---
 
-I build and run production systems that sit on top of marketplace and LLM APIs. Currently operating a multi-marketplace platform (Node.js/React, SQL Server) that manages 600+ live SKUs across eBay and Etsy with real-time inventory sync, OAuth token lifecycle, photo pipelines, and AI-driven listing generation.
+I build small programs and automations for businesses, pairing 30 years of e-commerce operator experience with modern AI coding tools. Focused, scoped work — API integrations, small web apps, marketplace automation — delivered fast.
 
-### What I ship
+I currently operate a multi-marketplace platform (Node.js / React / SQL Server) that manages 600+ live SKUs across eBay and Etsy with real-time inventory sync, OAuth token lifecycle, and AI-assisted listing generation.
 
-- **Node.js + Express backends** — REST APIs, webhook handlers, OAuth 2.0 flows, retry/reconciliation jobs
-- **React frontends** — responsive, mobile-first, PWA-compatible
-- **Marketplace integrations** — eBay Trading + Sell APIs, Etsy v3, shipping, payments
-- **AI integrations** — Claude API (Anthropic), OpenAI API, vision-based product analysis, deterministic rules + LLM explanations pattern
+### Where I'm a strong fit
+
+- **eBay / Etsy API integrations** — listing, inventory sync, order polling, OAuth flows
+- **Claude / LLM integrations** — server-side proxies, vision-based analysis, structured extraction
+- **Small Node.js / React builds** — dashboards, admin tools, focused features
+- **Bug fixes and feature additions** to existing JavaScript codebases
+- **E-commerce technical consulting** — operator-side perspective on marketplace problems
 
 ### Public repos
 
 - **[claude-api-proxy](https://github.com/wclingman1974-boop/claude-api-proxy)** — Minimal Node/Express proxy that solves CORS and API-key exposure for browser-based Claude integrations
-- **[ebay-oauth-manager](https://github.com/wclingman1974-boop/ebay-oauth-manager)** — eBay OAuth 2.0 token lifecycle module with automatic refresh, 18-month expiry monitoring, and concurrent-request deduplication
+- **[ebay-oauth-manager](https://github.com/wclingman1974-boop/ebay-oauth-manager)** — eBay OAuth 2.0 token lifecycle module with automatic refresh, expiry monitoring, and concurrent-request deduplication
 
-### Available for work
+### How I work
 
-Freelance contracts, 30–40 hrs/week, US Central Time. Strongest fit for eBay/Etsy/marketplace API work, Claude API integrations, and full-stack Node.js/React builds.
+I pair AI coding tools (Claude, modern LLM workflows) with 30 years of e-commerce operational experience. Best suited for focused builds in the 1–5 day range, not multi-month architect engagements.
+
+### Available for
+
+Small fixed-price projects ($200–$1,500 typical), ~15–20 hrs/week, US Central Time.
